@@ -1,6 +1,6 @@
 # Hi, I'm Daniel da Silva 👋
 
-🔭 **System Analysis and Development Student at UNINOVE**  
+🔭 **System Analysis and Development Student at FATEC SCS**  
 🌱 **Currently Studying Full Stack Development & Design**  
 💻 **Technical in IT at ETEC MCM**  
 🦁 **Dn 12:13** 
